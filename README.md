@@ -27,7 +27,7 @@ Content in the first column | Content in the second column | Content in the thir
 *Duis aute irure dolor* in reprehenderit in **voluptate velit esse** cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
-![Bill Gates](https://farm1.staticflickr.com/471/19660718138_c8045ed4ba_n.jpg)  
+![Bill Gates](http://www.timeslive.co.za/Feeds/Reuters_Images/2014/02/04/bill-gates/ALTERNATES/crop_630x400/Bill+Gates)  
 ## Bill Gates
 
 --------------------------
